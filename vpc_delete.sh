@@ -1,5 +1,5 @@
 #!/bin/bash
-# AWS CloudShell script to delete a VPC named 'WhoIsThis' and all its associated resources
+# AWS CloudShell script to delete a VPC and all its associated resources
 # This script requires AWS CLI and assumes you have sufficient permissions (root user)
 
 # Set the VPC name to search for
